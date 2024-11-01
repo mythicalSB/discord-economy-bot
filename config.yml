@@ -1,0 +1,10 @@
+TOKEN: "your-discord-bot-token"
+PREFIX: "!"
+COLORS:
+  primary: "#3498db"
+  secondary: "#2ecc71"
+EMOJIS:
+  coin: "🪙"
+  thumbs_up: "👍"
+  thumbs_do
+wn: "👎"
