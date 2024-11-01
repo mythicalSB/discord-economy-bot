@@ -47,8 +47,7 @@ Economy Bot is a customizable and interactive Discord bot for managing virtual e
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/economy-bot.git
-    cd economy-bot
+    git clone https://github.com/mythicalSB/discord-economy-bot
     ```
 
 2. **Install dependencies**:
